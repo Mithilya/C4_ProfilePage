@@ -85,3 +85,11 @@ h5{
     justify-content: center;
     align-items: center;
 }
+
+.square {
+    width: 300px;
+    height: 80px;
+    background-color: #dcdcdc;
+    position: relative;
+    margin-top: 350px;
+    left: 78px; 
